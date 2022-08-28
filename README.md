@@ -8,7 +8,7 @@
  - *Bacharel em Engenharia de computação pela UniEVANGÉLICA* 
  
  - *Apaixonado por Desenvolvimento e Progrmação desde os 14 anos* 
- - *Já atuei com desenvolvimento web e desktop *
+ - *Já atuei com desenvolvimento web e desktop*
  
  - *Amo compartilhar conhecimento* 
 
