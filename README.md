@@ -3,7 +3,6 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 Sobre mim :
- - *Me chamo Lucas Galvão e moro nesta cidade maravilhosa: Anápolis-GO* 
 
  - *Bacharel em Engenharia de computação pela UniEVANGÉLICA* 
  
