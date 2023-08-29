@@ -24,11 +24,8 @@
 
 ## 📈 Estatísticas
 
-<div align="center">
-  <a href="https://github.com/lucasengcomp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasengcomp&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasengcomp&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasengcomp)](https://github.com/lucasengcomp/github-readme-stats)
+
  
 ## :speech_balloon: Vamos conectar?  
 
