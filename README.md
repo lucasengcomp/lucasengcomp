@@ -27,10 +27,6 @@ Essas são algumas das tecnologias que utilizo no dia a dia:
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-## 📈 Estatísticas:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasengcomp&show_icons=true&theme=radical)](https://github.com/lucasengcomp/github-readme-stats)
-
 ## :speech_balloon: Vamos conectar?
 
 Você pode me encontrar nas redes sociais:
