@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Lucas Galvão Lima! 👋</h1>
+<h1 align="center">Olá, sou Lucas Galvão 👋</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/1ZvVkDc.gif" alt="mario coding" />
