@@ -1,37 +1,51 @@
-<h1 align="center" >Aoba Dev, bem vindo(a)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Olá, sou Lucas Galvão Lima! 👋</h1>
 
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+<p align="center">
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="mario coding" />
+</p>
 
-## 💡 Sobre mim :
+## 💡 Sobre mim:
 
- - *Bacharel em Engenharia de computação pela UniEVANGÉLICA* 
- 
- - *Apaixonado por Desenvolvimento e Programação* 
- - *Já atuei com desenvolvimento web e desktop*
- 
- - *Amo compartilhar conhecimento* 
+- 🎓 Bacharel em Engenharia de Computação pela UniEVANGÉLICA
+- 💻 Apaixonado por Desenvolvimento e Programação
+- 🌐 Já atuei com desenvolvimento web e desktop
+- 🚀 Amo compartilhar conhecimento
 
+## 🔧 Stacks e Tecnologias:
 
-## 🔮 Dá um confere em algumas stacks que gosto
- Essas são algumas das tecnologias que uso no dia a dia
+Essas são algumas das tecnologias que utilizo no dia a dia:
 
-<div align="center">
- <img src="https://camo.githubusercontent.com/c2e736bb3e058a6b438016c8926a46b9689e1a9d235e060c52e92240761854c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e67756167656d2d4a6176612d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661">   
- <img src="https://camo.githubusercontent.com/4b63db63b12e72929cf388b42e080bb14a6bc1a6c8810ae70ac1fc6385fee210/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726f6e74656e642d52656163742d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374">
- <img src="https://camo.githubusercontent.com/404167014a3e0748913d56aa19ade292091625b333a3ede7003388ca16860356/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e67756167656d2d547970657363726970742d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quarkus-469CC4?style=for-the-badge&logo=quarkus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/RestAssured-4AA96C?style=for-the-badge&logo=rest-assured&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring-data-jpa&logoColor=white" />
+  <img src="https://img.shields.io/badge/DesignPatterns-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/JasperReports-DC302E?style=for-the-badge&logo=jasper-reports&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
+## 📈 Estatísticas:
 
-## 📈 Estatísticas
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasengcomp&show_icons=true&theme=radical)](https://github.com/lucasengcomp/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasengcomp)](https://github.com/lucasengcomp/github-readme-stats)
+## :speech_balloon: Vamos conectar?
 
- 
-## :speech_balloon: Vamos conectar?  
+Você pode me encontrar nas redes sociais:
 
-Você pode me encontrar por essas redes sociais aqui (posto foto a cada 5 anos)
-
-<div align="center">
-<a target="_blank"></a>  <a href="https://github.com/lucasengcomp"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/lucasgalvlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="mailto:lucasengcomput@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/lucasgalvaolima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-</div>
- 
+<p align="center">
+  <a href="https://github.com/lucasengcomp">
+    <img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/lucasgalvlima">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:lucasengcomput@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucasgalvaolima/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
