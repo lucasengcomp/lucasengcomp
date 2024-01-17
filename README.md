@@ -16,6 +16,7 @@
 Essas são algumas das tecnologias que utilizo no dia a dia:
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Quarkus-469CC4?style=for-the-badge&logo=quarkus&logoColor=white" />
   <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
@@ -24,7 +25,6 @@ Essas são algumas das tecnologias que utilizo no dia a dia:
   <img src="https://img.shields.io/badge/DesignPatterns-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/JasperReports-DC302E?style=for-the-badge&logo=jasper-reports&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ## :speech_balloon: Vamos conectar?
