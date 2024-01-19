@@ -48,7 +48,7 @@ Essas são algumas das tecnologias que utilizo no dia a dia:
 
 ---
 
-Estatísticas 📈:
+##  📈 Estatísticas:
 
 [![Lucas Galvao github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasengcomp)](https://github.com/lucasengcomp/github-readme-activity-graph)
 
